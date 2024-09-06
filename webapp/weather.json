@@ -1,6 +1,6 @@
 {
-  "England": {
-    "London": {
+  "Inglaterra": {
+    "Londres": {
       "January": {"high": 45, "low": 36},
       "February": {"high": 46, "low": 36},
       "March": {"high": 50, "low": 39},
@@ -15,7 +15,7 @@
       "December": {"high": 46, "low": 38}
     }
   },
-  "France": {
+  "França": {
     "Paris": {
       "January": {"high": 45, "low": 36},
       "February": {"high": 47, "low": 36},
@@ -31,8 +31,8 @@
       "December": {"high": 46, "low": 37}
     }
   },
-  "Germany": {
-    "Berlin": {
+  "Alemanha": {
+    "Berlim": {
       "January": {"high": 37, "low": 29},
       "February": {"high": 39, "low": 29},
       "March": {"high": 46, "low": 34},
@@ -64,7 +64,7 @@
     }
   },
   "Portugal": {
-    "Lisbon": {
+    "Lisboa": {
       "January": {"high": 57, "low": 46},
       "February": {"high": 59, "low": 47},
       "March": {"high": 61, "low": 49},
@@ -93,7 +93,7 @@
       "December": {"high": 57, "low": 47}
     }
   },
-  "Italy": {
+  "Italia": {
     "Montepulciano": {
       "January": {"high": 50, "low": 32},
       "February": {"high": 54, "low": 34},
@@ -109,8 +109,8 @@
       "December": {"high": 51, "low": 35}
     }
   },
-  "Spain": {
-    "Seville": {
+  "Espanha": {
+    "Sevilha": {
       "January": {"high": 61, "low": 41},
       "February": {"high": 65, "low": 43},
       "March": {"high": 71, "low": 46},
